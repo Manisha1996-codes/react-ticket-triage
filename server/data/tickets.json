@@ -1,0 +1,110 @@
+[
+  {
+    "id": "T-101",
+    "title": "Unable to sign in",
+    "customer": "James Wilson",
+    "description": "Customer receives an error when trying to sign in after resetting the password.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-09-29T09:15:00Z"
+  },
+  {
+    "id": "T-102",
+    "title": "Payment not reflected",
+    "customer": "Sarah Smith",
+    "description": "An incoming payment has not appeared in the account balance.",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-09-28T12:45:00Z"
+  },
+  {
+    "id": "T-103",
+    "title": "Update contact details",
+    "customer": "Oliver Brown",
+    "description": "Customer wants to update the registered telephone number.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-09-24T10:00:00Z"
+  },
+  {
+    "id": "T-104",
+    "title": "Duplicate transaction",
+    "customer": "Emily Jones",
+    "description": "Customer has reported two identical transactions on the same day.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-09-30T08:30:00Z"
+  },
+  {
+    "id": "T-105",
+    "title": "Account statement missing",
+    "customer": "Amelia Taylor",
+    "description": "Monthly statement is not visible in the portal.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-09-26T17:20:00Z"
+  },
+  {
+    "id": "T-106",
+    "title": "Address change request",
+    "customer": "Noah Davies",
+    "description": "Customer submitted a new postal address and wants confirmation.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-09-23T15:05:00Z"
+  },
+  {
+    "id": "T-107",
+    "title": "Transfer declined",
+    "customer": "Isla Evans",
+    "description": "Transfer was declined without a clear reason shown in the UI.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-10-01T11:05:00Z"
+  },
+  {
+    "id": "T-108",
+    "title": "Notifications not arriving",
+    "customer": "George Thomas",
+    "description": "Push notifications stopped arriving on a registered device.",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2026-09-27T14:10:00Z"
+  },
+  {
+    "id": "T-109",
+    "title": "Incorrect account nickname",
+    "customer": "Ava Roberts",
+    "description": "Nickname shown on the dashboard differs from the saved value.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-09-21T13:40:00Z"
+  },
+  {
+    "id": "T-110",
+    "title": "Refund status unclear",
+    "customer": "Leo Johnson",
+    "description": "Customer needs an update on a pending merchant refund.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-02T07:50:00Z"
+  },
+  {
+    "id": "T-111",
+    "title": "Card blocked unexpectedly",
+    "customer": "Mia Walker",
+    "description": "Card has been blocked after a verified purchase.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-10-02T10:15:00Z"
+  },
+  {
+    "id": "T-112",
+    "title": "Standing order change",
+    "customer": "Harry White",
+    "description": "Customer requested a change to a recurring standing order.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-09-25T16:30:00Z"
+  }
+]

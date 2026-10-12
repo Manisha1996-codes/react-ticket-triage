@@ -1,0 +1,13 @@
+{
+"name": "react-ticket-triage-assessment",
+"private": true,
+"version": "1.0.0",
+"workspaces": ["client", "server"],
+"scripts": {
+"dev:api": "npm run dev -w server",
+"dev:web": "npm run dev -w client",
+"build": "npm run build -w client",
+"typecheck": "npm run typecheck -w client"
+},
+"engines": { "node": ">=20.19.0" }
+}
